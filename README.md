@@ -1,1 +1,1 @@
-![技术栈树：从计算机基础、系统实践到 Agent 工程与大模型算法](assets/technical-profile.png)
+![技术栈树：以计算机基础为根，向 Agent 工程、大模型算法、系统编程与嵌入式实践延伸](assets/technical-profile.png)
