@@ -1,1 +1,10 @@
 **/.obsidian/
+/W-3-Bairong/03_其他/
+
+# Local editor settings and generated build directories
+*.uvguix.*
+/P-1-Recording Room/Recording Room/OBJ/
+/P-1-Recording Room/Recording Room/Qt_App/build/
+/P-2-Clothing Warehouse IoT System/基于ZigBee与RFID的智能服装管理销售系统/3-LVGL移植代码/Output/
+/z-1-Schedule.png
+/z-2-简历投递.xlsx
